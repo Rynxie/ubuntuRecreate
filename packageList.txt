@@ -1,0 +1,12 @@
+i3
+alacritty
+thunar
+code
+rofi
+feh
+zsh
+gcc
+gdb
+gcc-arm-none-eabi
+gdb-multiarch
+openocd
